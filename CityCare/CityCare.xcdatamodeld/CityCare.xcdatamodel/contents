@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23G93" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Occurrence" representedClassName="Occurrence" syncable="YES" codeGenerationType="class">
+        <attribute name="oc_category" optional="YES" attributeType="String"/>
+        <attribute name="oc_description" optional="YES" attributeType="String"/>
+        <attribute name="oc_location" optional="YES" attributeType="String"/>
+        <attribute name="oc_photo" optional="YES" attributeType="Transformable"/>
+        <attribute name="oc_status" optional="YES" attributeType="String"/>
+    </entity>
+</model>
